@@ -1,5 +1,5 @@
 Olá!!! Eu sou Michael Allan<br>
-Estudante de Analise e Desenvolvimento de Sistemas(br>
+Estudante de Analise e Desenvolvimento de Sistemas...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="michael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
