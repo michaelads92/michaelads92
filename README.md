@@ -1,6 +1,5 @@
-- 👋 Olá, Eu sou o Michael Allan
-- 👀 Eu sou estudante de analise e desenvolvimento de sistema.
-- Irei postar alguns projetos de estudos.
+Olá!!! Eu sou Michael Allan
+Estudante de Analise e Desenvolvimento de Sistemas
 
 
 <!---
